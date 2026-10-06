@@ -1,4 +1,3 @@
-````markdown
 # Penerapan K-Nearest Neighbors (KNN) pada Content-Based Filtering untuk Sistem Rekomendasi Laptop Berbasis Web
 
 Project ini merupakan tahap awal pengembangan sistem rekomendasi laptop berbasis web menggunakan pendekatan **Content-Based Filtering** dengan algoritma **K-Nearest Neighbors (KNN)**.
@@ -44,7 +43,6 @@ Comparison / Pros & Cons
      ↓
 Web Interface
 ```
-````
 
 Status saat ini berada sampai tahap **Benchmark Enrichment**.
 
